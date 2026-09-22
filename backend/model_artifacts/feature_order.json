@@ -1,0 +1,32 @@
+{
+  "features": [
+    "ph",
+    "Hardness",
+    "Solids",
+    "Chloramines",
+    "Sulfate",
+    "Conductivity",
+    "Organic_carbon",
+    "Trihalomethanes",
+    "Turbidity",
+    "ph_deviation",
+    "hard_cond_ratio",
+    "chlor_oc_interact",
+    "halogen_burden",
+    "impurity_score",
+    "log_Solids",
+    "log_Conductivity"
+  ],
+  "raw_features": [
+    "ph",
+    "Hardness",
+    "Solids",
+    "Chloramines",
+    "Sulfate",
+    "Conductivity",
+    "Organic_carbon",
+    "Trihalomethanes",
+    "Turbidity"
+  ],
+  "solids_max": 1169.944
+}
