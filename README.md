@@ -17,6 +17,7 @@ A full-stack water safety platform that predicts drinking water potability using
 - [Getting Started](#getting-started)
 - [API Reference](#api-reference)
 - [Role-Based Access](#role-based-access)
+- [Model](#model)
 - [Known Limitations](#known-limitations)
 - [Future Work](#future-work)
 - [Contributors](#contributors)
