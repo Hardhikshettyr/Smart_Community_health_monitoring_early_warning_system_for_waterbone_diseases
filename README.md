@@ -245,6 +245,7 @@ npm test
 
 **Model Training Notebook:** [View on Google Colab](https://colab.research.google.com/drive/1kQP2X70YMdNasln1v0bgTCPSp6f7uoRx?usp=drive_link)
 
+---
 
 ## Known Limitations
 
