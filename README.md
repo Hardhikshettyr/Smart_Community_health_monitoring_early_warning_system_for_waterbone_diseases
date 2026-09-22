@@ -267,6 +267,8 @@ npm test
 
 ## Contributors
 
+**Contributed by Team Syndicate**
+
 - [Hardhik Shetty R](https://github.com/Hardhikshettyr)
 - [Charan T M](https://github.com/charantm7)
 - [Dheeraj Gowda Y S](https://github.com/dheerajgowdays)
