@@ -1,4 +1,4 @@
-# # Smart Community Health Monitoring and Early Warning System for Waterborne Diseases
+# Smart Community Health Monitoring and Early Warning System for Waterborne Diseases
 
 *(Working name: AquaSentinel)*
 
@@ -19,7 +19,7 @@ A full-stack water safety platform that predicts drinking water potability using
 - [Role-Based Access](#role-based-access)
 - [Known Limitations](#known-limitations)
 - [Future Work](#future-work)
-- [Authors](#authors)
+- [Contributors](#contributors)
 
 ---
 
@@ -240,6 +240,11 @@ npm test
 
 ---
 
+## Model 
+
+**Model Training Notebook:** [View on Google Colab](https://colab.research.google.com/drive/1kQP2X70YMdNasln1v0bgTCPSp6f7uoRx?usp=drive_link)
+
+
 ## Known Limitations
 
 - The rule-based disease-mapping engine reflects established public health associations but has not been clinically validated against confirmed outbreak records.
@@ -258,7 +263,7 @@ npm test
 
 ---
 
-## Authors
+## Contributors
 
 - [Hardhik Shetty R](https://github.com/Hardhikshettyr)
 - [Charan T M](https://github.com/charantm7)
