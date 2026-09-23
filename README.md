@@ -265,7 +265,7 @@ npm test
 
 ---
 
-## Contributors
+## Contributors 
 
 **Contributed by Team Syndicate**
 
